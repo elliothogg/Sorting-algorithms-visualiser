@@ -1,6 +1,6 @@
 # Sorting-Algorithms-Visualiser
 
-A terminal program that visualizes 4 sorting algorithms:
+A terminal program that visualises 4 sorting algorithms:
 
 1) Insertion Sort
 2) Heap Sort
